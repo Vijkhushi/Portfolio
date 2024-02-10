@@ -1236,7 +1236,7 @@ hr {
 .mean-container .mean-nav ul li span {
   width: 100%;
   padding: 10px 0;
-  color: #ffffff;
+  color: #000;
   border-top: 1px solid #4a4a4a;
   font-size: 16px;
   line-height: 1.5;
@@ -3470,7 +3470,7 @@ textarea.form-control {
   color: #5355DF;
 }
 .offcanvas__info {
-  background: #292930 none repeat scroll 0 0;
+  background: #fff none repeat scroll 0 0;
   position: fixed;
   top: 0;
   width: 420px;
